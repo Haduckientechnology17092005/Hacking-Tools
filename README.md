@@ -585,7 +585,8 @@
 - **[Pulsedive](http://pulsedive.com/)**: Platform for enriching and visualizing threat intelligence indicators.  
 - **[ThreatCrowd](http://threatcrowd.org/)**: Tool for investigating domains, IPs, and file hashes.  
 - **[ThreatMiner](http://threatminer.org/)**: Threat analysis tool for malware, domains, and IPs.  
-- **[SOC Radar](http://socradar.io/)**: Threat intelligence and attack surface monitoring tool.  
+- **[SOC Radar](http://socradar.io/)**: Threat intelligence and attack surface monitoring tool.
+- **[Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)**: Free Infostealer intelligence toolset  
 
 ### **Vulnerability & Malware Tools**  
 - **[Vulners](http://vulners.com/)**: Searchable database of vulnerabilities and exploits.  
